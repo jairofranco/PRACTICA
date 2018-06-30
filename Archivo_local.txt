@@ -1,1 +1,2 @@
 Texto local paraq el segundo commit... prueba
+Modificado para GUI
